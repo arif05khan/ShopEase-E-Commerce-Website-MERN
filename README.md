@@ -9,6 +9,8 @@
 ![a3e1e49e731a240277c4151311f383ebed2fdf28](https://github.com/arif05khan/ShopEase-E-Commerce-Websitete-/assets/105239918/3ef03d6f-cd3a-4095-9fd8-1b3366dc05a2)
 ![WhatsApp Image 2024-05-29 at 03 46 41_92793d7f](https://github.com/arif05khan/ShopEase-E-Commerce-Websitete-/assets/105239918/f1ab6109-56f7-4c07-8620-10f4b5bca198)
 
+
+
 ## Mobile View
 ![361e22063de768f9dd42e65d4c196af0a3fbbaf5](https://github.com/arif05khan/ShopEase-E-Commerce-Websitete-/assets/105239918/1cff249b-682c-4c9a-a5db-5b40d561ac7b)
 ![2059b3ef86dc9b6adb06fc4c8f43c9e5fb480104](https://github.com/arif05khan/ShopEase-E-Commerce-Websitete-/assets/105239918/5d14da7a-b447-4469-ab95-23433b01377c)
